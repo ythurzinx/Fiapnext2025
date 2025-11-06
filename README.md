@@ -28,5 +28,3 @@ Este repositório reflete práticas modernas de desenvolvimento, com ênfase em:
 
 ---
 
-Desenvolvido por **Arthur da Silva Alencar (THURZINX)**  
-[GitHub @ythurzinx](https://github.com/ythurzinx)
